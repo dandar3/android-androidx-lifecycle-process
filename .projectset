@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-lifecycle-process/tags/2.0.0,androidx-lifecycle-process,d013ed935e7c001b12c4e3f5082ba7bc;https://github.com/dandar3/android-androidx-lifecycle-process;https://github.com/dandar3/android-androidx-lifecycle-process;branches;tags;trunk;true;f3b16242-a307-f846-4fcf-ce57b7db7bff;https://github.com/dandar3/android-androidx-lifecycle-process;;false;;;0"/>
+</provider>
+</psf>
